@@ -1,5 +1,11 @@
 dddddd
+<<<<<<< HEAD
 sdsdhsjdhsd
 ssdsdsdsdsd
 hien-hieu
 -hhhhhhh
+=======
+hien-hieu
+lo cak
+hdhdhdh
+>>>>>>> fcbcc0e3f982368546b53d95e957c441bc051e3c
